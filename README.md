@@ -14,9 +14,6 @@ To run the project
 7. In command prompt run command: java ATM\
 8. Project will start running
 
-### Contact
-If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/aditya-kumar-choubey-577314202/). Or 
-[Gmail](adityakr1753@gmail.com).
 
 
 
